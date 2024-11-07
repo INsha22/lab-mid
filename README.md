@@ -13,5 +13,5 @@ This project includes setting up a PostgreSQL database and Redis cache using Doc
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone <lab-mid>
+   cd <lab-mid>
