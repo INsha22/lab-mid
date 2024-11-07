@@ -1,0 +1,16 @@
+git init
+git remote add origin https://github.com/INsha22/lab-mid.git
+git branch -m main
+git push -u origin main
+git add .
+git commit -m "Adding code to repo"
+git branch develop
+git branch feature/database-service
+git branch feather/cache-service
+git push -u origin develop
+git push -u origin feature/database-service
+git push -u feather/cache-service
+git checkout main
+git add .
+git commit -m "commint" (adding txt file)
+git push origin main
